@@ -1,8 +1,8 @@
-Name: "Fire"
-RootId: 9409565298605388179
+Name: "Air"
+RootId: 7453567382656637428
 Objects {
-  Id: 5262514852101177894
-  Name: "Fire Bow"
+  Id: 9642080504814429010
+  Name: "Air Bow"
   Transform {
     Scale {
       X: 1
@@ -10,7 +10,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9409565298605388179
+  ParentId: 7453567382656637428
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -20,17 +20,17 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2929451966229368413
+      key: 8439183080543151465
       value {
         Overrides {
           Name: "Name"
-          String: "Fire Bow"
+          String: "Air Bow"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -0.236877441
-            Y: 390.457886
+            X: 9.32684326
+            Y: 392.191315
             Z: 63.7848358
           }
         }
@@ -42,13 +42,13 @@ Objects {
       }
     }
     TemplateAsset {
-      Id: 5480427007090270054
+      Id: 17288342010083046836
     }
   }
 }
 Objects {
-  Id: 10972198946017020386
-  Name: "Fire Staff"
+  Id: 11411235939602595314
+  Name: "Air Staff"
   Transform {
     Scale {
       X: 1
@@ -56,7 +56,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9409565298605388179
+  ParentId: 7453567382656637428
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -66,18 +66,18 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 7243467940429765574
+      key: 17966598502856893812
       value {
         Overrides {
           Name: "Name"
-          String: "Fire Staff"
+          String: "Air Staff"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 1.23956299
-            Y: 188.634888
-            Z: 63.7848358
+            X: -2.25701904
+            Y: 181.701233
+            Z: 76.3878479
           }
         }
         Overrides {
@@ -88,13 +88,13 @@ Objects {
       }
     }
     TemplateAsset {
-      Id: 3499868513779383112
+      Id: 17580310674923280952
     }
   }
 }
 Objects {
-  Id: 6094605235417434732
-  Name: "Fire Shield"
+  Id: 7655709770453235107
+  Name: "Air Shield"
   Transform {
     Scale {
       X: 1
@@ -102,7 +102,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9409565298605388179
+  ParentId: 7453567382656637428
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -112,17 +112,17 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15537129713789965158
+      key: 1154168046225869712
       value {
         Overrides {
           Name: "Name"
-          String: "Fire Shield"
+          String: "Air Shield"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 1.96521
-            Y: -373.436066
+            X: -1.83340454
+            Y: -371.702637
             Z: 5.1384964
           }
         }
@@ -134,13 +134,13 @@ Objects {
       }
     }
     TemplateAsset {
-      Id: 9298059140033020254
+      Id: 5417596313176119330
     }
   }
 }
 Objects {
-  Id: 4031983498507776223
-  Name: "Fire Pauldron Left"
+  Id: 9475160911922328186
+  Name: "Air Pauldron Right"
   Transform {
     Scale {
       X: 1
@@ -148,7 +148,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9409565298605388179
+  ParentId: 7453567382656637428
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -158,17 +158,17 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 11581558096742499707
+      key: 17269906406007643148
       value {
         Overrides {
           Name: "Name"
-          String: "Fire Pauldron Left"
+          String: "Air Pauldron Right"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -4.20739746
-            Y: -232.891754
+            X: -2.97949219
+            Y: -173.928162
           }
         }
         Overrides {
@@ -179,13 +179,13 @@ Objects {
       }
     }
     TemplateAsset {
-      Id: 16557201349427559555
+      Id: 11043310570073346861
     }
   }
 }
 Objects {
-  Id: 3008486455383223959
-  Name: "Fire Pauldron Right"
+  Id: 17891783197598544067
+  Name: "Air Pauldron Left"
   Transform {
     Scale {
       X: 1
@@ -193,7 +193,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9409565298605388179
+  ParentId: 7453567382656637428
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -203,17 +203,17 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6782434125626682864
+      key: 4631971452032799199
       value {
         Overrides {
           Name: "Name"
-          String: "Fire Pauldron Right"
+          String: "Air Pauldron Left"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -4.20739746
-            Y: -175.661591
+            X: -2.97949219
+            Y: -231.158325
           }
         }
         Overrides {
@@ -224,13 +224,13 @@ Objects {
       }
     }
     TemplateAsset {
-      Id: 8943426192411953424
+      Id: 14488055392725543886
     }
   }
 }
 Objects {
-  Id: 7796179426151520930
-  Name: "Fire Melee"
+  Id: 5974816338822266087
+  Name: "Air Melee"
   Transform {
     Scale {
       X: 1
@@ -238,7 +238,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9409565298605388179
+  ParentId: 7453567382656637428
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -248,18 +248,18 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 11876200619219254602
+      key: 2166750711111647504
       value {
         Overrides {
           Name: "Name"
-          String: "Fire Melee"
+          String: "Air Melee"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 1.23956299
-            Y: -1.38021851
-            Z: 63.7848358
+            X: -2.25701904
+            Y: 0.353210449
+            Z: 8.52884674
           }
         }
         Overrides {
@@ -270,7 +270,7 @@ Objects {
       }
     }
     TemplateAsset {
-      Id: 8860222514886849615
+      Id: 14837203302183859254
     }
   }
 }
